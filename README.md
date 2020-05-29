@@ -8,7 +8,7 @@ Udacity Bikeshare Python Project
 My project shows the statistical data of bikeshare systems of 3 state of America (Chicago, Washington, New York City) with using python.
 
 ### Files used
-bikeshare.py \nchicago.csv \nnew_york_city.csv \nwashington.csv
+bikeshare.py chicago.csv new_york_city.csv washington.csv
 
 ### Credits
 Udacity Bikeshare Project
